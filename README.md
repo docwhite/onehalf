@@ -57,7 +57,7 @@ A color scheme for Sublime Text, (Neo)Vim, iTerm, and more. Based on Atom's One.
 
 ```
                         light     dark
-0   normal  black       #383a42   #282c34
+0   normal  black       #383a42   #343a43
 1   normal  red         #e45649   #e06c75
 2   normal  green       #50a14f   #98c379
 3   normal  yellow      #c18401   #e5c07b
@@ -66,7 +66,7 @@ A color scheme for Sublime Text, (Neo)Vim, iTerm, and more. Based on Atom's One.
 6   normal  cyan        #0997b3   #56b6c2
 7   normal  white       #fafafa   #dcdfe4
             foreground  #383a42   #dcdfe4
-            background  #fafafa   #282c34
+            background  #fafafa   #343a43
 ```
 
 

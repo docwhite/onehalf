@@ -49,11 +49,11 @@ and/or
 # Colors (One Half Dark)
 colors:
   primary:
-    background: '0x282c34'
+    background: '0x343a43'
     foreground: '0xdcdfe4'
 
   normal:
-    black: '0x282c34'
+    black: '0x343a43'
     red: '0xe06c75'
     green: '0x98c379'
     yellow: '0xe5c07b'
@@ -63,7 +63,7 @@ colors:
     white: '0xdcdfe4'
 
   bright:
-    black: '0x282c34'
+    black: '0x343a43'
     red: '0xe06c75'
     green: '0x98c379'
     yellow: '0xe5c07b'

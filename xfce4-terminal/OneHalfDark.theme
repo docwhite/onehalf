@@ -49,10 +49,10 @@ Name[uk]=One Half (темний)
 Name[zh_CN]=One Half (暗)
 Name[zh_TW]=One Half (暗)
 
-ColorBackground=#282c34
+ColorBackground=#343a43
 ColorForeground=#dcdfe4
 ColorBold=#dcdfe4
 ColorBoldUseDefault=FALSE
-ColorCursor=#282C34
+ColorCursor=#343a43
 #TabActivityColor=
-ColorPalette=#282c34;#e06c75;#98c379;#e5c07b;#61afef;#c678dd;#56b6c2;#dcdfe4;#282c34;#e06c75;#98c379;#e5c07b;#61afef;#c678dd;#56b6c2;#dcdfe4
+ColorPalette=#343a43;#e06c75;#98c379;#e5c07b;#61afef;#c678dd;#56b6c2;#dcdfe4;#343a43;#e06c75;#98c379;#e5c07b;#61afef;#c678dd;#56b6c2;#dcdfe4
